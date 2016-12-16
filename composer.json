@@ -1,0 +1,19 @@
+{
+  "name": "xyz/slug",
+  "description": "Laravel Slug",
+  "authors": [
+    {
+      "name": "Bharti Mori",
+      "email": "bhartimori1996@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.6.4"
+  },
+
+  "autoload": {
+    "psr-4": {
+      "LaravelMySlug\\": "slug/src"
+    }
+  }
+}
